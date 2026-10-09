@@ -4,6 +4,8 @@ Freeware Windows client for the **SkyBell Micro** video doorbell: sign in with y
 
 > Unofficial project. Not affiliated with, endorsed by, or supported by SkyBell Technologies. It talks to your own doorbell with your own credentials, for personal use.
 
+![SkyBell Client for Windows](docs/screenshot.png)
+
 ## Download
 
 Get the latest `SkyBridge_Setup_v*.msi` from the [Releases](../../releases/latest) page and run it.
