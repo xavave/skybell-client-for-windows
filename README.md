@@ -1,4 +1,4 @@
-# SkyBell Client for Windows
+# SkyBell Client for Windows (aka SkyBridge)
 
 Freeware Windows client for the **SkyBell Micro** video doorbell: sign in with your SkyBell account to watch the live video, talk to your visitors, browse recorded clips, get notified when someone rings, and change the doorbell settings from your PC.
 
